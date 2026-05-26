@@ -9,5 +9,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  <img src="nx_logo.svg" alt="nx" width="40" height="40"/>
+  <img src="nx_logo_dark.svg" alt="nx" width="40" height="40"/>
 </p>
