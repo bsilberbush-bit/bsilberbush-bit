@@ -8,13 +8,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer" style="display: inline-block;">
+  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer" style="line-height: 0;">
     <img src="MATLAB.png" alt="matlab" width="50" height="50"/>
   </a>
-  <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer" style="display: inline-block;">
+  <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer" style="line-height: 0;">
     <img src="NX_LOGO.svg" alt="nx" width="50" height="50"/>
   </a>
-  <a href="https://www.onshape.com" target="_blank" rel="noreferrer" style="display: inline-block;">
+  <a href="https://www.onshape.com" target="_blank" rel="noreferrer" style="line-height: 0;">
     <img src="ONSHAPE.svg" alt="onshape" width="50" height="50"/>
   </a>
 </p>
